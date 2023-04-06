@@ -1,2 +1,2 @@
 # ucci-plugins-release
-Devious plugins release
+https://github.com/CRNHV/ucci-plugins-source
