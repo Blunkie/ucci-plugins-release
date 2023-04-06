@@ -1,0 +1,27 @@
+[{
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "unethicalite",
+  "name": "Ucci ZeahRc",
+  "description": "Crafts blood runes",
+  "id": "uccizeahrc-plugin",
+  "releases": [{
+    "date": "2023-04-06",
+    "sha512sum": "07FBF9F9EEE4316E791A99D5712B922E3EE79E845F94FB59171BBBEEABD66FB4DD45E37AB1B8E5FEF992D07E9DCF2A230358BEB9604313DC7DDAD8B460FB559B",
+    "version": "0.0.2",
+    "url": "https://raw.githubusercontent.com/CRNHV/ucci-plugins-release/main/ucci-zeahrc-0.0.2.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "unethicalite",
+  "name": "Unethical Zulrah",
+  "description": "Kills Zulrah for you",
+  "id": "unethicalzulrah-plugin",
+  "releases": [{
+    "date": "2023-04-06",
+    "sha512sum": "B4BB8A68546ACFA3822BB4AE5D436C3E2AB627E90B2C9AC80AB7080FB90E9AD0C8209244FC44DAA245839F638D30BE0D681E45F092171F8189E60A5ECDEF02F8",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/CRNHV/ucci-plugins-release/main/unethical-zulrah-1.0.0.jar",
+    "requires": "^1.0.0"
+  }]
+}]
