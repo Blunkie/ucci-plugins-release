@@ -1,6 +1,19 @@
 [{
   "projectUrl": "https://discord.gg/WTvTbSPknJ",
   "provider": "unethicalite",
+  "name": "Ucci clockworks",
+  "description": "Makes clockworks for you",
+  "id": "ucciclockworks-plugin",
+  "releases": [{
+    "date": "2023-04-14",
+    "sha512sum": "7C7B8AEE5845ADF8495258D5C834D9D87A82D85ED7DA018902C2BB51CB0486BF54A93CA1203D762077852FA9A1E3B143B9B5B337BB3F2CD607F128DC31AC8983",
+    "version": "0.0.2",
+    "url": "https://raw.githubusercontent.com/CRNHV/ucci-plugins-release/main/ucci-clockworks-0.0.2.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "unethicalite",
   "name": "Ucci ZeahRc",
   "description": "Crafts blood runes",
   "id": "uccizeahrc-plugin",
